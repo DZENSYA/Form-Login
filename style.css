@@ -53,7 +53,7 @@ body {
 }
 
 .input-box input:hover {
-  border-color:white;
+  border:1px solid white;
 }
 
 .input-box input::placeholder {
