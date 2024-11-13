@@ -52,7 +52,7 @@ body {
   padding: 20px 45px 20px 20px;
 }
 
-.input-box input {
+.input-box input:hover {
   border-color:white;
 }
 
